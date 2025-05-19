@@ -13,7 +13,8 @@ The HSRD dataset comprises three main components:
 **SN3-SAR Dataset**: Synthesized from the SpaceNet 3 (SN3) optical dataset using an EO2SAR translation model. Similar to DG-SAR, this dataset offers SAR-like images generated from high-resolution EO images.
 
 ## Download the Dataset
-Download the dataset [here](https://drive.google.com/drive/folders/1NcoTCeylKDd3Oz97cmmiT4zMPBniilTr?usp=sharing).
+~~Download the dataset [here](https://drive.google.com/drive/folders/1NcoTCeylKDd3Oz97cmmiT4zMPBniilTr?usp=sharing).~~
+The full dataset is host on Kaggle [The HybridSAR Road Dataset (HSRD)](https://www.kaggle.com/datasets/irislan/hybridsar-hsrd).
 
 ## License
 This dataset is released under the MIT License.
@@ -22,4 +23,4 @@ This dataset is released under the MIT License.
 We would like to thank the SpaceNet team, DeepGlobe Challenge organizers, and OpenStreetMap contributors for providing the foundational data used to create this dataset.
 
 ## Contact
-For any questions or issues, please contact your.email@example.com.
+For any questions or issues, please contact lant0003 at ntu.edu.sg.
